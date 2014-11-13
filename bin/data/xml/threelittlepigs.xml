@@ -1,0 +1,55 @@
+<tale>
+	<title>THE STORY OF THE THREE LITTLE PIGS</title>
+	<characters>
+		<character n="1">
+			<name>Pig</name>
+			<subject>he</subject>
+			<object>him</object>
+			<reflexive>himself</reflexive>
+			<possessive>his</possessive>
+			<articleDet>the</articleDet>
+			<articleIndet>a</articleIndet>
+		</character>
+		<character n="2">
+			<name>Wolf</name>
+			<subject>he</subject>
+			<object>him</object>
+			<reflexive>himself</reflexive>
+			<possessive>his</possessive>
+			<articleDet>the</articleDet>
+			<articleIndet>a</articleIndet>
+		</character>
+	</characters>	
+	<text>
+		<p n="1">Once upon a time there was an old Sow with three little <character n="1" type="name">Pig</character>s, and as she had not enough to keep them, she sent them out to seek their fortune.</p>
+		<p n="2">The first that went off met a Man with a bundle of straw, and said to him, "Please, Man, give me that straw to build me a house"; which the Man did, and the little <character n="1" type="name">Pig</character> built a house with it. Presently came along <character n="2" type="articleIndet">a</character> <character n="2" type="name">Wolf</character>, and knocked at the door, and said, "Little <character n="1" type="name">Pig</character>, little <character n="1" type="name">Pig</character>, let me come in."</p>
+		<p n="3">"Then I'll huff and I'll puff, and I'll blow your house in!" said <character n="2" type="articleDet">the</character> <character n="2" type="name">Wolf</character>. So <character n="2" type="subject">he</character> huffed and <character n="2" type="subject">he</character> puffed, and <character n="2" type="subject">he</character> blew <character n="2" type="possesive">his</character> house in, and ate up the little <character n="1" type="name">Pig.</character></p>
+		<p n="4">The second <character n="1" type="name">Pig</character> met a Man with a bundle of furze, and said, "Please, Man, give me that furze to build a house"; which the Man did, and <character n="1" type="articleDet">the</character> <character n="1" type="name">Pig</character> built <character n="1" type="possessive">his</character> house.</p>
+		<p n="5">Then along came <character n="2" type="articleDet">the</character> <character n="2" type="name">Wolf</character> and said, "Little <character n="1" type="name">Pig</character>, little <character n="1" type="name">Pig</character>, let me come in."</p>
+		<p n="6">"No, no, by the hair of my chinny chin chin."</p>
+		<p n="7">"Then I'll puff and I'll huff, and I'll blow your house in!" So <character n="2" type="subject">he</character> huffed and <character n="2" type="subject">he</character> puffed, and <character n="2" type="subject">he</character> puffed and <character n="2" type="subject">he</character> huffed, and at last <character n="2" type="subject">he</character> blew the house down, and ate up the second little <character n="1" type="name">Pig</character>.</p>
+		<p n="8">The third little <character n="1" type="name">Pig</character> met a Man with a load of bricks, and said, "Please, Man, give me those bricks to build a house with"; so the Man gave <character n="1" type="object">him</character> the bricks, and <character n="1" type="subject">he</character> built <character n="1" type="possessive">his</character> house with them. So <character n="2" type="articleDet">the</character> <character n="2" type="name">Wolf</character> came, as <character n="2" type="subject">he</character> did to the other little <character n="1" type="name">Pig</character>s, and said, "Little <character n="1" type="name">Pig</character>, little <character n="1" type="name">Pig</character>, let me come in."</p>
+		<p n="9">"No, no, by the hair of my chinny chin chin."</p>
+		<p n="10">"Then I'll huff and I'll puff, and I'll blow your house in."</p>
+		<p n="11">Well, <character n="2" type="subject">he</character> huffed and <character n="2" type="subject">he</character> puffed, and <character n="2" type="subject">he</character> huffed and <character n="2" type="subject">he</character> puffed, and <character n="2" type="subject">he</character> puffed and <character n="2" type="subject">he</character> huffed; but <character n="2" type="subject">he</character> could not get the house down. When <character n="2" type="subject">he</character> found that <character n="2" type="subject">he</character> could not, with all <character n="2" type="possessibe">his</character> huffing and puffing, blow the house down, <character n="2" type="subject">he</character> said, "Little <character n="1" type="name">Pig</character>, I know where there is a nice field ofturnips."</p>
+		<p n="12">"Where?" said the little <character n="1" type="name">Pig</character>.</p>
+		<p n="13">"Oh, in Mr. Smith's home-field; and if you will be ready to-morrow morning, I will call for you, and we will go together and get some for dinner."</p>
+		<p n="14">"Very well," said the little <character n="1" type="name">Pig</character>, "I will be ready. What time do you mean to go?"</p>
+		<p n="15">"Oh, at six o'clock."</p>
+		<p n="16">Well, the little <character n="1" type="name">Pig</character> got up at five, and got the turnips and was home again before six. When <character n="2" type="articleDet">the</character> <character n="2" type="name">Wolf</character> came <character n="2" type="subject">he</character> said, "Little <character n="1" type="name">Pig</character>, are you ready?"</p>
+		<p n="17">"Ready!" said the little <character n="1" type="name">Pig</character>, "I have been and come back again, and got a nice pot-full for dinner."</p>
+		<p n="18"><character n="2" type="articleDet">the</character> <character n="2" type="name">Wolf</character> felt very angry at this, but thought that <character n="2" type="subject">he</character> would be up to the little <character n="1" type="name">Pig</character> somehow or other; so <character n="2" type="subject">he</character> said, "Little <character n="1" type="name">Pig</character>, I know where there is a nice apple-tree."</p>
+		<p n="19">"Where?" said <character n="1" type="articleDet">the</character> <character n="1" type="name">Pig</character>.</p>
+		<p n="20">"Down at Merry-garden," replied <character n="2" type="articleDet">the</character> <character n="2" type="name">Wolf</character>; "and if you will not deceive me I will come for you, at five o'clock to-morrow, and we will go together and get some apples."</p>
+		<p n="21">Well, the little <character n="1" type="name">Pig</character> woke at four the next morning, and bustled up, andwent off for the apples, hoping to get back before <character n="2" type="articleDet">the</character> <character n="2" type="name">Wolf</character> came; but <character n="1" type="subject">he</character> had farther to go, and had to climb the tree, so that just as <character n="1" type="subject">he</character> was coming down from it, <character n="1" type="subject">he</character> saw <character n="2" type="articleDet">the</character> <character n="2" type="name">Wolf</character> coming, which, as you may suppose, frightened <character n="1" type="object">him</character> very much. When <character n="2" type="articleDet">the</character> <character n="2" type="name">Wolf</character> came up <character n="2" type="subject">he</character> said, "Little <character n="1" type="name">Pig</character>, what! are you here before me? Are they nice apples?"</p>
+		<p n="22">"Yes, very," said the little <character n="1" type="name">Pig</character>; "I will throw you down one." And <character n="1" type="subject">he</character> threw it so far that, while <character n="2" type="articleDet">the</character> <character n="2" type="name">Wolf</character> was gone to pick it up, the little <character n="1" type="name">Pig</character> jumped down and ran home.</p>
+		<p n="23">The next day <character n="2" type="articleDet">the</character> <character n="2" type="name">Wolf</character> came again, and said to the little <character n="1" type="name">Pig</character>, "Little <character n="1" type="name">Pig</character>, there is a Fair in the Town this afternoon: will you go?"</p>
+		<p n="24">"Oh, yes," said <character n="1" type="articleDet">the</character> <character n="1" type="name">Pig</character>, "I will go; what time shall you be ready?"</p>
+		<p n="25">"At three," said <character n="2" type="articleDet">the</character> <character n="2" type="name">Wolf</character>.</p>
+		<p n="26">So the little <character n="1" type="name">Pig</character> went off before the time, as usual, and got to the Fair, and bought a butter churn, and was on his way home with it when <character n="1" type="subject">he</character> saw <character n="2" type="articleDet">the</character> <character n="2" type="name">Wolf</character> coming. Then <character n="1" type="subject">he</character> could not tell what to do. So <character n="1" type="subject">he</character> got into the churn to hide, and in doing so turned it round, and it began to roll, and rolled down the hill with <character n="1" type="name">Pig</character> inside it, which frightened <character n="2" type="articleDet">the</character> <character n="2" type="name">Wolf</character> so much that <character n="2" type="subject">he</character> ran home without going to the Fair.</p>
+		<p n="27"><character n="2" type="subject">He</character> went to the little <character n="1" type="name">Pig</character>'s house, and told <character n="1" type="object">him</character> how frightened <character n="2" type="subject">he</character> had been by a great round thing which came down the hill past <character n="2" type="object">him</character>.</p>
+		<p n="28">Then the little <character n="1" type="name">Pig</character> said, "Hah! I frightened you, did I? I had been to the Fair and bought a butter churn, and when I saw you I got into it, and rolled down the hill."</p>
+		<p n="29">Then <character n="2" type="articleDet">the</character> <character n="2" type="name">Wolf</character> was very angry indeed, and declared <character n="2" type="subject">he</character> would eat up the little <character n="1" type="name">Pig</character>, and that <character n="2" type="subject">he</character> would get down the chimney after <character n="1" type="object">him</character>.</p>
+		<p n="30">When the little <character n="1" type="name">Pig</character> saw what <character n="2" type="subject">he</character> was about, <character n="1" type="subject">he</character> hung on the pot full of water, and made up a blazing fire, and, just as <character n="2" type="articleDet">the</character> <character n="2" type="name">Wolf</character> was coming down, took off the cover of the pot, and in fell <character n="2" type="articleDet">the</character> <character n="2" type="name">Wolf</character>. And the little <character n="1" type="name">Pig</character> put on the cover again in an instant, boiled <character n="2" type="object">him</character> up, and ate <character n="2" type="object">him</character> for supper, and lived happy ever after.</p>
+	</text>
+</tale>

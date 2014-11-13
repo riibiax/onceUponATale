@@ -1,0 +1,54 @@
+<tale>
+ <title>LITTLE RED RIDING HOOD</title>
+ <characters>
+	<character n="1">
+		<name>Red Riding Hood</name>
+		<subject>she</subject>
+		<object>her</object>
+		<reflexive>herself</reflexive>
+		<possessive>her</possessive>
+		<articleDet></articleDet>
+		<articleIndet></articleIndet>
+	</character>
+	<character n="2">
+		<name>Wolf</name>
+		<subject>he</subject>
+		<object>him</object>
+		<reflexive>himself</reflexive>
+		<possessive>his</possessive>
+		<articleDet>the</articleDet>
+		<articleIndet>a</articleIndet>
+	</character>
+</characters>
+ <text>
+	<p n="1">Once upon a time there lived in a certain village a little country girl, the prettiest creature who was ever seen. <character n="1" type="possessive">Her</character> mother was excessively fond of <character n="1" type="object">her</character>; and <character n="1" type="possessive">her</character> grandmother doted on <character n="1" type="object">her</character> still more. This good woman had a little red riding hood made for <character n="1" type="object">her</character>. It suited the girl so extremely well that everybody called <character n="1" type="object">her</character> <character n="1" type="name">Little Red Riding Hood</character>.</p>
+	<p n="2">One day <character n="1" type="possessive">her</character> mother, having made some cakes, said to <character n="1" type="object">her</character>, "Go, my dear, and see how your grandmother is doing, for I hear she has been very ill. Take her a cake, and this little pot of butter."</p>
+	<p n="3"><character n="1" type="name">Little Red Riding Hood</character> set out immediately to go to <character n="1" type="possessive">her</character> grandmother, who lived in another village. </p>
+	<p n="4">As <character n="1" type="subject">she</character> was going through the wood, <character n="1" type="subject">she</character> met with <character n="2" type="articleIndet">a</character> <character n="2" type="name">wolf</character>, who had a very great mind to eat <character n="1" type="object">her</character> up, but <character n="2" type="subject">he</character> dared not, because of some woodcutters working nearby in the forest. <character n="2" type="subject">He</character> asked <character n="1" type="object">her</character> where <character n="1" type="subject">she</character> was going. The poor child, who did not know that it was dangerous to stay and talk to <character n="2" type="articleIndet">a</character> <character n="2" type="name">wolf</character>, said to <character n="2" type="object">him</character>, "I am going to see my grandmother and carry her a cake and a little pot of butter from my mother."</p>
+	<p n="5">"Does she live far off?" said <character n="2" type="articleDet">the</character> <character n="2" type="name">wolf</character></p>
+	<p n="6">"Oh I say," answered <character n="1" type="name">Little Red Riding Hood</character>; "it is beyond that mill you see there, at the first house in the village."</p>
+	<p n="7">"Well," said <character n="2" type="articleDet">the</character> <character n="2" type="name">wolf</character>, "and I'll go and see her too. I'll go this way and go you that, and we shall see who will be there first."</p>
+	<p n="8"><character n="2" type="articleDet">The</character> <character n="2" type="name">wolf</character> ran as fast as <character n="2" type="subject">he</character> could, taking the shortest path, and the little girl took a roundabout way, entertaining <character n="1" type="reflexive">herself</character> by gathering nuts, running after butterflies, and gathering bouquets of little flowers. It was not long before <character n="2" type="articleDet">the</character> <character n="2" type="name">wolf</character> arrived at the old woman's house. <character n="2" type="subject">He</character> knocked at the door: tap, tap. </p>
+	<p n="9">"Who's there?"</p>
+	<p n="10">"Your grandchild, <character n="1" type="name">Little Red Riding Hood</character>," replied <character n="2" type="articleDet">the</character> <character n="2" type="name">wolf</character>, counterfeiting <character n="1" type="possessive">her</character> voice; "who has brought you a cake and a little pot of butter sent you by mother."</p>
+	<p n="11">The good grandmother, who was in bed, because she was somewhat ill, cried out, "Pull the bobbin, and the latch will go up."</p>
+	<p n="12"><character n="2" type="articleDet">The</character> <character n="2" type="name">wolf</character> pulled the bobbin, and the door opened, and then <character n="2" type="subject">he</character> immediately fell upon the good woman and ate her up in a moment, for it been more than three days since <character n="2" type="subject">he</character> had eaten. <character n="2" type="subject">He</character> then shut the door and got into the grandmother's bed, expecting Little <character n="1" type="name">Little Red Riding Hood</character>, who came some time afterwards and knocked at the door: tap, tap. </p>
+	<p n="13">"Who's there?"</p>
+	<p n="14"><character n="1" type="name">Little Red Riding Hood</character>, hearing the big voice of <character n="2" type="articleDet">The</character> <character n="2" type="name">wolf</character>, was at first afraid; but believing <character n="1" type="possessive">her</character> grandmother had a cold and was hoarse, answered, "It is your grandchild <character n="1" type="name">Little Red Riding Hood</character>, who has brought you a cake and a little pot of butter mother sends you."</p>
+	<p n="15"><character n="2" type="articleDet">The</character> <character n="2" type="name">wolf</character> cried out to <character n="1" type="object">her</character>, softening <character n="2" type="possessive">his</character> voice as much as <character n="2" type="subject">he</character> could, "Pull the bobbin, and the latch will go up."</p>
+	<p n="16"><character n="1" type="name">Little Red Riding Hood</character> pulled the bobbin, and the door opened. </p>
+	<p n="17"><character n="2" type="articleDet">The</character> <character n="2" type="name">wolf</character>, seeing <character n="1" type="object">her</character> come in, said to <character n="1" type="object">her</character>, hiding <character n="2" type="reflexive">himself</character> under the bedclothes, "Put the cake and the little pot of butter upon the stool, and come get into bed with me."</p>
+	<p n="18"><character n="1" type="name">Little Red Riding Hood</character> took off <character n="1" type="possessive">her</character> clothes and got into bed. <character n="1" type="subject">She</character> was greatly amazed to see how her grandmother looked in her nightclothes, and said to her, "Grandmother, what big arms you have!"</p>
+	<p n="19">"All the better to hug you with, my dear."</p>
+	<p n="20">"Grandmother, what big legs you have!"</p>
+	<p n="21">"All the better to run with, my child."</p>
+	<p n="22">"Grandmother, what big ears you have!"</p>
+	<p n="23">"All the better to hear with, my child."</p>
+	<p n="24">"Grandmother, what big eyes you have!"</p>
+	<p n="25">"All the better to see with, my child."</p>
+	<p n="26">"Grandmother, what big teeth you have got!"</p>
+	<p n="27">"All the better to eat you up with."</p>
+	<p n="28">And, saying these words, this wicked <character n="2" type="name">wolf</character> fell upon <character n="1" type="name">Little Red Riding Hood</character>, and ate <character n="1" type="object">her</character> all up.</p>
+ </text>
+</tale>
+
